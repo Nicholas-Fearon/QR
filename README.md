@@ -19,10 +19,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### Screenshot
+### Screenshot 
 
 
-![](./images/screenshot%20.jpg)
+![screenshot](./images/screenshot.jpg)
 
 
 ## My process
